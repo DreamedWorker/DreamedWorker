@@ -1,7 +1,7 @@
 # DreamedWorker
 (The reason why I use DreamedWorker is that "DreamWorker" has been used by someone.)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=DreamedWorker" />
+[![DreamedWorker's GitHub stats](https://github-readme-stats.vercel.app/api?username=DreamedWorker)](https://github.com/anuraghazra/github-readme-stats)
 
 Hi, this is my README here!
 
