@@ -24,13 +24,13 @@ The following dynamic images will show you my activity on Github.
 
 ## My Open-Source projects
 
-1. [ChatBot]: https://github.com/DreamedWorker/ChatBot	"ChatBot"
+1. [ChatBot](https://github.com/DreamedWorker/ChatBot)
 
-2. [Ipason_hackintosh]: https://github.com/DreamedWorker/ipason_hackintosh	"Ipason_hackintosh"
+2. [Ipason_hackintosh](https://github.com/DreamedWorker/ipason_hackintosh)
 
-3. [Pixeldraw]: https://github.com/DreamedWorker/Pixeldraw	"Pixeldraw"
+3. [Pixeldraw](https://github.com/DreamedWorker/Pixeldraw)
 
-4. [My Blog]: https://dreamedworker.github.io/	"My Blog"
+4. [My Blog](https://dreamedworker.github.io/)
 
    
 
