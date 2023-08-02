@@ -64,11 +64,6 @@ I am trying to be more active.
 
 ------
 
-### Future plannings
-
-- *AI judgement* : An AI procedure that allows judges to enter testimonies of both parties to make civil decisions.
-- Becomeing an ATC, whether approach, ground, or departure. (If it is possbile)
-
 ### Working devices
 
 ![MacBook Air M1](https://img.shields.io/badge/MacBook%20Air%20lM1-For%20programming%20and%20daily%20use-yellow)
