@@ -1,61 +1,77 @@
-# Blue-Dream
+# 梦之黯蓝（Blue-Dream）
 
-Hi, here! I am Blue-Dream ( or @DreamedWorker), a freshman studying at  CULR. This is a brief README of my conditions and a window for you to know who am I.
+Hi, here!
 
-> The reason why I use DreamedWorker is that "DreamWorker" has been used by someone.
+------
+
+#### A university student majored in Law and with interests in simple computer programming & aviation.
+This is a brief README of my basic situations and a window for you to know who am I.
+
+------
 
 The following dynamic images will show you my activity on Github.
 
 ![DreamedWorker's GitHub stats](https://github-readme-stats.vercel.app/api?username=DreamedWorker)
 
-## Personal brief
+------
 
-- 🏫 An undergraduate in China
+### Personal brief
 
-  Major: **Law** (It is really difficult for me to learn, oh no.)
+- 🏫 A freshman in law (Studying law core courses and other).
+- 📖 A typical academic tailor (mainly embodied in writing useless papers).
+- 💻 Trying to further my knowledge of Android development and web design based on Vue.js.
+- 🎮 Determined to become an electronic mustard who loves to play games （Such as Microsoft Flight Simulator）.
+- 🖥️ Initial foray into cross-platform development solutions.
 
-- 💻 A learner and practitioner of Android software development
+### Languages I am using
 
-  ![Kotlin's logo](https://kotlinlang.org/assets/images/favicon.svg?v2)Kotlin is the main language I use
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="24" height="24"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="24" height="24"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue.js" width="24" height="24" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="24" height="24"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="24" height="24"/>
+</div>
 
-- ❤️ Enthusiasts in the aviation field
+### Frameworks and Tools I am using
 
-  
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="as" width="24" height="24"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="24" height="24"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" alt="gradle" width="24" height="24" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="24" height="24"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="code" width="24" height="24"/>
+</div>
 
-## My Open-Source projects
+------
+
+### My Open-Source projects
 
 1. [ChatBot](https://github.com/DreamedWorker/ChatBot)
-
 2. [Ipason_hackintosh](https://github.com/DreamedWorker/ipason_hackintosh)
-
 3. [Pixeldraw](https://github.com/DreamedWorker/Pixeldraw)
-
 4. [My Blog](https://dreamedworker.github.io/)
 
-   
+I am trying to be more active.
 
-## Current tasks
+------
+
+### Current tasks
 
 - **Major study** : finish all of my university subjects.
 - **mStudo** *(This is proprietary software)* : an Android app that allows you to create MinecraftBE game-packs with only a little programming knowledge.
 - **DocxWriter** : A software for generating official documents of Party and government organs that allows you to focus on writing without considering the format.
 
+------
 
-
-## Future plannings
+### Future plannings
 
 - *AI judgement* : An AI procedure that allows judges to enter testimonies of both parties to make civil decisions.
 - Becomeing an ATC, whether approach, ground, or departure. (If it is possbile)
 
+### Working devices
 
-## Help each other
-
-As you know, and the content mentioned above, Law is really a very difficult. I am studying Law in our university's Law School, and we use the teaching materials published by 高等教育出版社. If your situation is similar to mine, I look forward to making contact and learning together.
-
-## Working devices
-
-![macOS 12.6.3 laptop](https://img.shields.io/badge/macOS%2012.6.3%20loptop-For%20programming%20and%20daily%20use-yellow)
-
+![MacBook Air M1](https://img.shields.io/badge/MacBook%20Air%20lM1-For%20programming%20and%20daily%20use-yellow)
 ![Android 12 phone](https://img.shields.io/badge/Android%2012%20phone-Normal%20Use-brightgreen)
 
 
