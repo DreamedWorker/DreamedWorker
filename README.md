@@ -4,7 +4,7 @@ Hi, here!
 
 ------
 
-#### A university student majored in Law and with interests in simple computer programming & aviation.
+#### A university student(in CULR) majored in Law and with interests in simple computer programming & aviation.
 This is a brief README of my basic situations and a window for you to know who am I.
 
 ------
@@ -31,26 +31,29 @@ The following dynamic images will show you my activity on Github.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue.js" width="24" height="24" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="24" height="24"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="24" height="24"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="cpp" width="24" height="24"/>
 </div>
 
 ### Frameworks and Tools I am using
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="as" width="24" height="24"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="24" height="24"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="24" height="24"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" alt="gradle" width="24" height="24" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="24" height="24"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="code" width="24" height="24"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" alt="electron" width="24" height="24"/>
 </div>
 
 ------
 
 ### My Open-Source projects
 
-1. [ChatBot](https://github.com/DreamedWorker/ChatBot)
-2. [Ipason_hackintosh](https://github.com/DreamedWorker/ipason_hackintosh)
-3. [Pixeldraw](https://github.com/DreamedWorker/Pixeldraw)
-4. [My Blog](https://dreamedworker.github.io/)
+1. [Classmates](https://github.com/DreamedWorker/classmates) Cross-platform app for university classes
+2. [Pixeldraw](https://github.com/DreamedWorker/Pixeldraw) (built-in component in mStudio)
+3. [ChatBot](https://github.com/DreamedWorker/ChatBot) （No longer developing）
+4. [Ipason_hackintosh](https://github.com/DreamedWorker/ipason_hackintosh) (For one who wants to experience macOS)
+5. [My Blog](https://dreamedworker.github.io/)
 
 I am trying to be more active.
 
@@ -59,7 +62,7 @@ I am trying to be more active.
 ### Current tasks
 
 - **Major study** : finish all of my university subjects.
-- **mStudo** *(This is proprietary software)* : an Android app that allows you to create MinecraftBE game-packs with only a little programming knowledge.
+- **mStudo(基岩工坊)** *(This is proprietary software)* : an Android app that allows you to create MinecraftBE game-packs with only a little programming knowledge.
 - **DocxWriter** : A software for generating official documents of Party and government organs that allows you to focus on writing without considering the format.
 
 ------
