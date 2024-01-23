@@ -4,7 +4,7 @@ Hi, here!
 
 ------
 
-#### A university student(in CULR) majored in Law and with interests in simple computer programming & aviation.
+#### A university student majored in Law and with interests in simple computer programming & aviation.
 This is a brief README of my basic situations and a window for you to know who am I.
 
 ------
