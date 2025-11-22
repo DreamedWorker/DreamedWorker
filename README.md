@@ -14,15 +14,13 @@ Hi here! This is ``YuanShine``, an oridinary "freshman" law school student, and 
 - PS. 多玩玩游戏其实是没坏处的哦~
 
 ------
-### 我的小看板 (Kanban)
+### 我的看板 (Kanban)
 ![Genshin Impact, my paradise](https://hoyocard.qhy04.com/gs/58/418654204.png)
 
 ![DreamedWorker's GitHub stats](https://github-readme-stats.vercel.app/api?username=DreamedWorker&show_icons=true&locale=cn)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamedWorker&layout=compact&locale=cn)
 
 <h5>正在积极维护的项目(Projects)</h5>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DreamedWorker&repo=TravellersBag&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
 <h5>掌握和正在学习的技能与工具(Skills)</h5>
 
