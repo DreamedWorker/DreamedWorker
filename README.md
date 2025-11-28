@@ -29,9 +29,4 @@ Hi here! This is ``YuanShine``, an oridinary "freshman" law school student, and 
 ------
 
 ### 未来的开发计划（Plans）
-
-- 继续拓宽旅者行囊的功能，或使用跨平台框架提供 Linux 环境的版本。（Extend the functions of TravellersBag, or make it cross-platform so you can use it on Linux.）
-- 开发一个可以在安卓手机上开发 Minecraft 游戏 Add-ons 的程序。（An Android application allows you to develop Minecraft add-ons just on your phone.）
-- 通过跨平台框架开发一个集成学习环境（说白了就算把日历、文件索引、知识点复习啥的整合在一起的软件）（A cross-platform application that integrates calendar, file-indexing, knowledge-reviewing and so on.）
-
-# 嗯，继续努力，继续可爱！
+to be continued.
