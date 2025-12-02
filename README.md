@@ -11,15 +11,9 @@ Hi here! This is ``YuanShine``, an oridinary "freshman" law school student, and 
 
 - 在某一年的秋天，因为一款风靡全球的方块放置与破坏游戏而开始接触到 Java 语言，再后来阴差阳错的开始写安卓软件，并在文档的鼓动之下接触了 Kotlin，尝到了 Java 上没有的甜头。（The time I started to learn Java is in a year's fall when I meet the game named Minecraft. Then I toke the jounery of writing Android apps and meet a new friend Kotlin.）
 - 在2024年的春天，偶然间在 Mac 上踏上了一趟前往提瓦特大陆的旅程，随后在 Xcode 的大锤的吸引下接触了在语法上有相似处的 Swift。(The spring in 2024, I rose up into a 2D world displayed on the screen of my mba, and then I used Xcode to build [TravellersBag](https://github.com/DreamedWorker/TravellersBag) with Swift.)
-- PS. 多玩玩游戏其实是没坏处的哦~
 
 ------
 ### 我的看板 (Kanban)
-![Genshin Impact, my paradise](https://hoyocard.qhy04.com/gs/58/418654204.png)
-
-![DreamedWorker's GitHub stats](https://github-readme-stats.vercel.app/api?username=DreamedWorker&show_icons=true&locale=cn)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamedWorker&layout=compact&locale=cn)
 
 <h5>正在积极维护的项目(Projects)</h5>
 
